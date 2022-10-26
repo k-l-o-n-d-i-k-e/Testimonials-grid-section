@@ -44,7 +44,7 @@ body{
 
 .card-bg-purple{
     background-color: rgb(255, 200, 255);
-    background-image: url(/Proyect/images/bg-pattern-quotation.svg);
+    background-image: url(https://raw.githubusercontent.com/k-l-o-n-d-i-k-e/Testimonials-grid-section/1d81b4707478e4344399e1f1dfddae1778f0de25/images/bg-pattern-quotation.svg);
     background-repeat: no-repeat;
     background-position: top 10px right 100px;
     color: rgb(69, 31, 78);
